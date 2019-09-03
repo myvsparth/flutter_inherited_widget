@@ -63,14 +63,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-// class CounterText extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     var counter = CountProvider.of(context).counter;
-//     return Text(
-//       '${counter.count}',
-//       style: Theme.of(context).textTheme.display1,
-//     );
-//   }
-// }
